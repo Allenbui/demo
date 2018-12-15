@@ -1,2 +1,3 @@
 Thay doi tu nhanhmoi
 Xu ly Conflict Xung dot
+Sua file truc tiep tren GitHub
